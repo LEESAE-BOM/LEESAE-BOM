@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @LEESAE-BOM
-- 👀 I’m interested in Computer vision
-- 🌱 I’m currently learning deep-learning, GAN, Medical Image Analysis
+- 👀 I’m interested in NLP
+- 🌱 I’m currently learning deep-learning
 
 <!---
 LEESAE-BOM/LEESAE-BOM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
